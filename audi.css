@@ -1,0 +1,310 @@
+*{
+    margin: 0;
+    letter-spacing: 1px;
+    font-family: AudiType-WideNormal,Helvetica,Arial,sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
+#flex-container {
+    display: flex;
+    flex-direction: row;
+    height: 70px;
+}
+  
+  #flex-container > .flex-item {
+    flex: auto;
+}
+  
+  #flex-container > .raw-item {
+    width: 15rem;
+}
+
+
+.logo{
+  position: relative;
+  height: 20px;
+  left: 300px;
+  top: 24px;
+  }
+  .buttons{
+    position: relative;
+    left: 300px;
+}
+.search{
+  position: relative;
+  left: 900px;
+  bottom: 28px;
+  font-size: 23px;
+  width: 20px;
+}
+
+.button1{
+  height: 50px;
+  background-color: white;
+  border-style: none;
+  font-size: 18px;
+  width: 130px;
+  padding-top: 20px;
+}
+.back-image{
+  position: fixed;
+}
+.center-text{
+  position: relative;
+  left: 450px;
+  bottom: 400px;
+  width: 1000px;
+  text-align: center;
+}
+.main-txt{
+  position: relative;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 75px;
+  color: white;
+
+}
+.txt2{
+  position: relative;
+  color: white;
+}
+.read-more{
+  position: relative;
+    top: 60px;
+    height: 60px;
+    width: 210px;
+    font-size: 15px;
+    border: 1px solid white;
+    background-color: transparent;
+    color: white;
+}
+.text-second-heading{
+  position: relative;
+  left: 600px;
+  width: 838px;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+}
+.img2{
+  position: relative;
+  width: 500px;
+    left: 300px;
+    top: 80px;
+}
+.img3{
+  position: relative;
+  width: 300px;
+    left: 785px;
+    bottom: 193px;
+}
+.img4{
+  position: relative;
+  width: 500px;
+  left: 1270px;
+  bottom: 466px;
+}
+.para1{
+  position: relative;
+    bottom: 450px;
+    left: 317px;
+    width: 450px;
+    height: 150px;
+}
+.para2{
+  position: relative;
+    bottom: 600px;
+    left: 800px;
+    width: 450px;
+    height: 150px;
+}
+.para3{
+  position: relative;
+  bottom: 750px;
+  left: 1293px;
+  width: 450px;
+  height: 150px;
+}
+.read-more2{
+  position: relative;
+    top: 60px;
+    height: 60px;
+    width: 210px;
+    font-size: 15px;
+    border: 1px solid black;
+    background-color: transparent;
+    color: black;
+}
+.para4{
+  position: relative;
+  bottom: 500px;
+  left: 300px;
+  width: 500px
+}
+.prefix{
+  position: relative;
+  top: 140px;
+  width: 678px;
+  font-size: 10px;
+}
+.car-img{
+  position: relative;
+  bottom: 741px;
+  left: 950px;
+  width: 562px;
+  height: 215px;
+}
+.read-more3{
+  position: relative;
+    top: 60px;
+    height: 60px;
+    width: 210px;
+    font-size: 15px;
+    border: 1px solid black;
+    background-color: transparent;
+    color: black;
+}
+.girl-img{
+  position: relative;
+  bottom: 295px;
+  left: 320px;
+  width: 562px;
+  height: 215px;
+}
+.para5{
+  position: relative;
+  bottom: 415px;
+  left: 1200px;
+  width: 600px;
+}
+.img5{
+  position: relative;
+  width: 500px;
+    left: 300px;
+    top: 80px;
+}
+.img6{
+  position: relative;
+  width: 300px;
+    left: 785px;
+    bottom: 193px;
+}
+.img7{
+  position: relative;
+  width: 500px;
+  left: 1270px;
+  bottom: 466px;
+}
+.read-more4{
+  position: relative;
+    bottom: 450px;
+    height: 60px;
+    width: 300px;
+    font-size: 15px;
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+    left: 900px;
+}
+.text-second-heading2{
+  position: relative;
+  left: 850px;
+  width: 400px;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+}
+.icons{
+  position: relative;
+  width: 150px;
+  left: 300px;
+  background-color: white;
+  height: 30px;
+  top: 20px;
+  
+
+
+  
+}
+
+.icon1{
+  position: relative;
+  height: 30px;
+  
+}
+.icon2{
+  position: relative;
+  height: 30px;
+ 
+}
+.icon3{
+  position: relative;
+  height: 30px;
+  
+}
+.icon4{
+  position: relative;
+  height: 30px;
+  
+}
+.icon5{
+  position: relative;
+  height: 30px;
+  
+}
+.footer{
+  background-color: black;
+  height: 100%;
+
+}
+.table{
+  color: white;
+  position: relative;
+  left: 300px;
+   width: 50%;
+   line-height: 40px;
+   top: 60px;
+}
+.table-sub{
+  font-size: larger;   
+  text-align: left;
+  position: relative;
+  bottom: 15px;
+}
+.lastpart{
+  color: white;
+  text-align: left;
+  padding-left: 200px;
+  font-size: 15px;
+  padding-right: 200px;
+  font-size: smaller;
+  position: relative;
+  top: 160px;
+  background-color: black;
+
+
+}
+.border{
+  background-color: grey;
+  height: 1px;
+  width: 1500px;
+  position: relative;
+  left: 200px;
+  top: 60px;
+
+}
+.rights{
+  color: white;
+  text-align: left;
+  width: 1500px;
+  position: relative;
+  left: 200px;
+  font-size: smaller;
+  top: 75px;
+}
+.search-icon{
+  position: relative;
+  height: 20px;
+  left: 860px;
+  bottom: 50px;
+}
